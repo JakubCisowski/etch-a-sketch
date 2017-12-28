@@ -1,0 +1,17 @@
+.container {
+	margin: 10px auto;
+	box-sizing: border-box;
+	width: 320px; height: 320px;
+	background-color: black;
+	line-height: 0;
+}
+
+.user-interface {
+	text-align: center;
+}
+
+.user-interface button {
+	width: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
