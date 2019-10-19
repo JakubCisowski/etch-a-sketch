@@ -1,23 +1,9 @@
 # Etch-a-Sketch
+https://jakubcisowski.github.io/etch-a-sketch/
 
-## Project info
+## How it works
+It works like a sketch pad. User can draw in random colours.
 
-*	**Author:** 
-	*Jakub Cisowski*
-
-*	**Project goal:**
-	*Create minimalistic sketch*
-
-*	**Purpose:**
-	*Practice DOM manipulation*
-
-## Instruction
-
-*	User can draw random colors by moving mouse over sketch
-
-*	To clear sketch or to change amount of squares per row, simply press proper button
-
-*	Have fun!
-
----
-[Project page on *The Odin Project* website](https://www.theodinproject.com/lessons/etch-a-sketch-project)
+## Features
+*	*clear display* button.
+*	*resize sketch pad* button
