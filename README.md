@@ -1,9 +1,13 @@
-# Etch-a-Sketch
+# Etch a Sketch
 https://jakubcisowski.github.io/etch-a-sketch/
 
-## How it works
-It works like a sketch pad. User can draw in random colours.
+Simple etch a sketch web application.
+
+![scr](https://i.imgur.com/lBiTqhi.png)
+
+## How to use it
+It works like a useless sketch pad. User can draw in only random colours.
 
 ## Features
-*	*clear display* button.
-*	*resize sketch pad* button
+*	Clear display button.
+*	Resize sketch pad button
